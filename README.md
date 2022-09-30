@@ -4,6 +4,3 @@ Collect and geo-reference content including unarchived satellite and drone image
 ## members
 * [Ibuki Shibayama](https://github.com/ibuki76)  
 * [Sota Suzuki](https://github.com/SotaSuzuki-1327)
-
-## KMZ files
-
