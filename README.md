@@ -5,7 +5,7 @@ Collect and geo-reference content including unarchived satellite and drone image
 * [Ibuki Shibayama](https://github.com/ibuki76)  
 * [Sota Suzuki](https://github.com/SotaSuzuki-1327)
 
-        &
+&
               
 * [Yasuda Haruka](https://github.com/halgraphic)
 * [Shogo Hirasawa](https://github.com/ShogoHirasawa)
